@@ -1,0 +1,20 @@
+# Core dependencies
+apache-airflow==2.8.1
+apache-airflow-providers-postgres==5.10.0
+psycopg2-binary==2.9.9
+
+# Data processing
+pandas==2.2.0
+faker==22.0.0
+
+# Development & Testing
+pytest==8.0.0
+pytest-cov==4.1.0
+ruff==0.2.0
+black==24.1.0
+pre-commit==3.6.0
+mypy==1.8.0
+
+# Type stubs
+pandas-stubs==2.1.4.231227
+types-psycopg2==2.9.21.20240118
