@@ -1,11 +1,12 @@
 # 🚀 Airflow E-Commerce Data Pipeline
 
-[![CI](https://github.com/YOUR_USERNAME/airflow-ecommerce-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/airflow-ecommerce-pipeline/actions/workflows/ci.yml)
+[![CI](https://github.com/louisbentz2002-crypto/airflow-ecommerce-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/louisbentz2002-crypto/airflow-ecommerce-pipeline/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Airflow 2.x](https://img.shields.io/badge/Airflow-2.x-017CEE.svg)](https://airflow.apache.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Un pipeline ELT complet orchestré par **Apache Airflow** pour un dataset e-commerce fictif. Ce projet démontre les bonnes pratiques de data engineering : orchestration, data quality, idempotence, Docker, CI/CD.
+
 
 ---
 
@@ -133,7 +134,7 @@ docker run -p 8080:8080 ecommerce-dashboard
 #### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/airflow-ecommerce-pipeline.git
+git clone https://github.com/louisbentz2002-crypto/airflow-ecommerce-pipeline.git
 cd airflow-ecommerce-pipeline
 ```
 
@@ -432,5 +433,6 @@ MIT License - voir [LICENSE](LICENSE)
 
 ## 👤 Auteur
 
-**Votre Nom**  
-Data Engineer | [LinkedIn](https://linkedin.com/in/votre-profil) | [GitHub](https://github.com/votre-username)
+**Bentz Louis**  
+Data Engineer | [LinkedIn](https://www.linkedin.com/in/louis-bentz-40a9851b3/)) | [GitHub](https://github.com/louisbentz2002-crypto)
+
